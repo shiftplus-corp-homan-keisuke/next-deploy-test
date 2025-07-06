@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import prisma from "@/lib/prisma";
 
 export const metadata: Metadata = {
   title: "Create Next App",
